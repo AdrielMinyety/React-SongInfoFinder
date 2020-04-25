@@ -6,7 +6,7 @@
 
 ### =======================================================
 
-![card](https://github.com/AdrielMinyety/React-SongsInfoFinder/blob/master/React-SongInfoFinder.png)
+![card](https://github.com/AdrielMinyety/React-SongInfoFinder/blob/master/React-SongInfoFinder.png)
 
 ### =======================================================
 
